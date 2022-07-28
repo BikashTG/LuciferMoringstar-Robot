@@ -232,7 +232,10 @@ async def cb_handler(bot, update):
 
             FILE_CAPTION = settings["caption"]
             caption = FILE_CAPTION.format(mention=update.from_user.mention, file_name=title, size=size, caption=files.caption)
-            buttons = [[ InlineKeyboardButton("⚜️ 𝚂𝙷𝙰𝚁𝙴 𝙼𝙴 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 ⚜️", url=f"https://t.me/share/url?url=Best%20AutoFilter%20Bot%20%0A%40LuciferMoringstar_Robot%0A@{temp.Bot_Username}") ]]
+            buttons = [[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl")
+                         ],[
+                         InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl")
+                        ]]
             if settings["savefiles"]:
                 protect_content = True
             else:
@@ -293,8 +296,11 @@ async def cb_handler(bot, update):
             title = files.file_name
             size = get_size(files.file_size)
             caption = CUSTOM_FILE_CAPTION.format(mention=update.from_user.mention, file_name=title, size=size, caption=files.caption)
-            buttons = [[ InlineKeyboardButton("⚜️ 𝚂𝙷𝙰𝚁𝙴 𝙼𝙴 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 ⚜️", url=f"https://t.me/share/url?url=Best%20AutoFilter%20Bot%20%0A%40LuciferMoringstar_Robot%0A@{temp.Bot_Username}") ]]
-            try:
+            buttons =[[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl")
+                         ],[
+                         InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl")
+                        ]]
+            try:       
                 await bot.send_cached_media(chat_id=update.from_user.id, file_id=file_id, caption=caption, reply_markup=InlineKeyboardMarkup(buttons), protect_content=SAVE_FILES)            
             except Exception as e:
                 print(f"{e}")
