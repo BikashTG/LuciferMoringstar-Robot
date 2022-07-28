@@ -232,10 +232,8 @@ async def cb_handler(bot, update):
 
             FILE_CAPTION = settings["caption"]
             caption = FILE_CAPTION.format(mention=update.from_user.mention, file_name=title, size=size, caption=files.caption)
-            buttons = [[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl")
-                         ],[
-                         InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl")
-                        ]]
+            buttons = [[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl"), InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl") ],
+                      [ InlineKeyboardButton("❎ Close ❎", callback_data="close") ]]    
             if settings["savefiles"]:
                 protect_content = True
             else:
@@ -296,10 +294,8 @@ async def cb_handler(bot, update):
             title = files.file_name
             size = get_size(files.file_size)
             caption = CUSTOM_FILE_CAPTION.format(mention=update.from_user.mention, file_name=title, size=size, caption=files.caption)
-            buttons =[[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl")
-                         ],[
-                         InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl")
-                        ]]
+            buttons =[[ InlineKeyboardButton("🆘🎬 TK HD HUB", url=f"https://t.me/+4yoDh0x8j80wOTVl"), InlineKeyboardButton("🆘🎥 TK HP HUB", url="https://t.me/+oRO-NDOF4LU4ZjRl") ],
+                     [ InlineKeyboardButton("❎ Close ❎", callback_data="close") ]]
             try:       
                 await bot.send_cached_media(chat_id=update.from_user.id, file_id=file_id, caption=caption, reply_markup=InlineKeyboardMarkup(buttons), protect_content=SAVE_FILES)            
             except Exception as e:
