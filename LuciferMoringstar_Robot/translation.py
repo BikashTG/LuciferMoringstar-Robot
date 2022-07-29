@@ -31,21 +31,17 @@ Add Me To Your Group And Make Sure I'm an Admin There..!
 And Enjoy My Pever Show..! 🤪"""
 
 HELP_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention}
+<b>𝙷𝙴𝙻𝙻𝙾 {mention}
 𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 [{name}](https://t.me/{username})', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
-"""
+</b>"""
 
-ABOUT_MESSAGE = """
-𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
-𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
-𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳](t.me/PR0FESS0R_99)
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
+ABOUT_MESSAGE = """<b>
+𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : It's Unique Movies Bot 2.0
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Dragon](t.me/hellodragan)
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}]
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
-𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : {version}
-𝚂𝙾𝚄𝚁𝙲𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴]({source})
-"""
+𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : {version}</b>"""
 
 SETTINGS_MESSAGE = """
 **𝙲𝙷𝙰𝙽𝙶𝙴 𝚈𝙾𝚄𝚁 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂 𝙵𝙾𝚁 Change {title} 𝙰𝚂 𝚈𝙾𝚄𝚁 𝚆𝙸𝚂𝙷.⚙"""
