@@ -38,8 +38,8 @@ HELP_MESSAGE = """
 ABOUT_MESSAGE = """<b>
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : It's Unique Movies Bot 2.0
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Dragon](t.me/hellodragan)
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}]
-𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : {name}
+𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : {version}</b>"""
 
