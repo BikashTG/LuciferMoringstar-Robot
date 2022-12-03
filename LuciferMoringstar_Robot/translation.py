@@ -25,10 +25,13 @@
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 START_MESSAGE = """
-👋Hello {mention}..!
-It's Power Full [{name}](t.me/{username}) Here 😎
-Add Me To Your Group And Make Sure I'm an Admin There..!
-And Enjoy My Pever Show..! 🤪"""
+<i><b>Hello 👋 {mention},</b>
+
+<b>I Am Not Only <a href='http://t.me/Itsuniquemovie_robot'>𝐈𝐭'𝐬 𝐔𝐍𝐈𝐐𝐔𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 2.0</a> To Assist You But Also Employed <a href='https://t.me/@Tk_movies_adda'>𝐈𝐭'𝐬 𝐔𝐍𝐈𝐐𝐔𝐄 𝐌𝐎𝐕𝐈𝐄𝐒</a> By <a href='https://t.me/MOVIE_HOUSE11'>Htan Yoj</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
+
+<b>Better You Click Below & Join Online Movies Hub & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
+
+<b>For More Information Click ℹ️ Help</b></i>"""
 
 HELP_MESSAGE = """
 <b>𝙷𝙴𝙻𝙻𝙾 {mention}
@@ -37,7 +40,7 @@ HELP_MESSAGE = """
 
 ABOUT_MESSAGE = """<b>
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : It's Unique Movies Bot 2.0
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Dragon](t.me/hellodragan)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Bikash](t.me/Bikash_9999)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : {name}
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
