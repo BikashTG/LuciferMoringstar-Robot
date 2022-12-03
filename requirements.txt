@@ -1,4 +1,4 @@
-Pyrogram
+Pyrogram==2.0.59
 Tgcrypto
 Pymongo[srv]
 Motor
@@ -9,4 +9,3 @@ Aiofiles
 imdbpy==2021.4.18
 googletrans==3.1.0a0 # Google Translater 
 gTTS # Google Translater
-enums
