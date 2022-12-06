@@ -27,9 +27,9 @@
 START_MESSAGE = """
 <i><b>Hello 👋 {mention},</b>
 
-<b>I Am Not Only <a href='http://t.me/Itsuniquemovie_robot'>𝐈𝐭'𝐬 𝐔𝐍𝐈𝐐𝐔𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 2.0</a> To Assist You But Also Employed <a href='https://t.me/@Tk_movies_adda'>𝐈𝐭'𝐬 𝐔𝐍𝐈𝐐𝐔𝐄 𝐌𝐎𝐕𝐈𝐄𝐒</a> By <a href='https://t.me/MOVIE_HOUSE11'>Htan Yoj</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
+<b>I Am Not Only <a href='http://t.me/Tk_world27_bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
 
-<b>Better You Click Below & Join Online Movies Hub & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
+<b>Better You Click Below & Join Online 𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
 
 <b>For More Information Click ℹ️ Help</b></i>"""
 
@@ -39,8 +39,8 @@ HELP_MESSAGE = """
 </b>"""
 
 ABOUT_MESSAGE = """<b>
-𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : It's Unique Movies Bot 2.0
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Bikash](t.me/Bikash_9999)
+𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [Bikash](t.me/BIKASH_9999)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : {name}
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
