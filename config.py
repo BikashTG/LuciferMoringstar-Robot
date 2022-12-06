@@ -19,7 +19,7 @@ CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "BIKASH_9999")
 API_HASH = os.environ.get("API_HASH", "8719d11809492f836004a39b42599215")
 API_ID = os.environ.get("API_ID", "12694006")
 # About Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5906445821:AAGFiZ5N08qtAmaAEKltBn0mqMujUQH9Eoo")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5682561335:AAGGE3NEUwqed8xsoG8108yob-s7NYhFj3Y")
 PICS = os.environ.get("PICS", "https://telegra.ph/file/913f9af3d11d8c0306043.jpg")
 # Database
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Pushpa")
@@ -30,7 +30,7 @@ SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Tk_movies_adda")
 AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001506877410")
 CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001822275183").split()]
 LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001646581413")
-GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001576725431")
+GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001746932666")
 FILTER_DEL_SECOND = int(os.environ.get("FILTER_DEL_SECOND", "600"))
 
 # AutoFilter
