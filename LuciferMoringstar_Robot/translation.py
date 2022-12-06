@@ -27,9 +27,9 @@
 START_MESSAGE = """
 <i><b>Hello 👋 {mention},</b>
 
-<b>I Am Not Only <a href='http://t.me/Tk_world27_bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
+<b>I Am Not Only <a href='http://t.me/Tk_World72_bot'>𝙏𝙆_𝙀𝙉𝙏...𝘽𝙊𝙏 2.1</a> To Assist You But Also Employed <a href='https://t.me/Tk_movies_adda'>𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻</a> By <a href='https://t.me/BIKASH_9999'>BIKASH</a> So You Can't Get My Service By Adding Me To Your Group So Don't Waste Your Time & Data 😉</b>
 
-<b>Better You Click Below & Join Online 𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
+<b>Better You Click Below & Join 𝑻𝑲_𝑬𝑵𝑻𝑬𝑹𝑻𝑨𝑰𝑵𝑴𝑬𝑵𝑻 & Feel The Experience Of Downloading Unlimited Movies/ Series ✅</b>
 
 <b>For More Information Click ℹ️ Help</b></i>"""
 
