@@ -12,18 +12,18 @@ def is_enabled(value, default):
 
 
 # Creator
-CREATOR_NAME = os.environ.get("CREATOR_NAME", "Bikash")
-CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "Bikash_9999")
+CREATOR_NAME = os.environ.get("CREATOR_NAME", "BIKASH")
+CREATOR_USERNAME = os.environ.get("CREATOR_USERNAME", "BIKASH_9999")
 
 # Account
 API_HASH = os.environ.get("API_HASH", "8719d11809492f836004a39b42599215")
 API_ID = os.environ.get("API_ID", "12694006")
 # About Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5567354112:AAH3f9bi60I8HiZ5mCu38-mBeMCkdd62T1I")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5906445821:AAGFiZ5N08qtAmaAEKltBn0mqMujUQH9Eoo")
 PICS = os.environ.get("PICS", "https://telegra.ph/file/913f9af3d11d8c0306043.jpg")
 # Database
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Balmiki")
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Balmiki:Balmiki@cluster0.lmden.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Pushpa")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Pushpa:Pushpa@cluster0.e0trkss.mongodb.net/?retryWrites=true&w=majority")
 # Chats & Users
 ADMINS = os.environ.get("ADMINS", "953377581 5630723610")
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Tk_movies_adda")
